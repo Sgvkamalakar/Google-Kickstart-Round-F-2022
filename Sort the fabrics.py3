@@ -1,3 +1,4 @@
+# Question link: https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb409/0000000000beefbb#problem
 t = int(input())
 for tc in range(t):
     n = int(input())
